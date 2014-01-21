@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#fancy-comments{
+/*border-radius*/
+margin:0;
+padding:0;
+-webkit-border-radius:3px;
+   -moz-border-radius:3px;
+        border-radius:3px;
+/*box-shadow*/
+-webkit-box-shadow:0 5px 13px 1px #9C9C9C;
+   -moz-box-shadow:0 5px 13px 1px #9C9C9C;
+        box-shadow:0 5px 13px 1px #9C9C9C;
+height:180px;
+left:80px;
+position:absolute;
+top:41px;
+width:400px;
+z-index:999999;
+border:1px solid #000;
+display:none;
+cursor:pointer !important;
+clear:both;
+
+/*linear-gradient*/
+background:-webkit-gradient(linear,left bottom,left top,color-stop(rgba(207,207,207,1),0),color-stop(rgba(254,254,254,1),1));
+background:-webkit-linear-gradient(bottom, rgba(207,207,207,1) 0%, rgba(254,254,254,1) 100%);
+background:   -moz-linear-gradient(bottom, rgba(207,207,207,1) 0%, rgba(254,254,254,1) 100%);
+background:     -o-linear-gradient(bottom, rgba(207,207,207,1) 0%, rgba(254,254,254,1) 100%);
+background:        linear-gradient(bottom, rgba(207,207,207,1) 0%, rgba(254,254,254,1) 100%);
+}
+#fancy-comments:after, #fancy-comments:before{
+bottom:100%;
+left:10%;
+border:1px solid transparent;
+content:" ";
+height:0;
+width:0;
+position:absolute;
+pointer-events:none;
+}
+#fancy-comments:after{
+border-color:rgba(136, 183, 213, 0);
+border-bottom-color:#fff;
+border-width:14px;
+margin-left:-14px;
+}
+#fancy-comments:before{
+border-color:rgba(194, 225, 245, 0);
+border-bottom-color:#000;
+border-width:15px;
+margin-left:-15px;
+}
+.fancy-comments-avatar{
+
+height:100%;
+width:180px;
+display: inline-block;
+float:left;
+overflow:hidden;
+}
+
+.fancy-comments-info{
+	display: inline-block;
+
+	height:180px;
+	float:left;
+	width:215px;
+	}
+
+.fancy-comments-name {
+  margin: 10px;
+  height: 25px;
+  overflow:hidden;
+
+}
+	
+.fancy-comments-url {
+
+  height: 25px;
+  margin-left: 10px;
+  margin-top: 0;
+  overflow:hidden;
+}
+
+.fancy-comments-description {
+
+  font-size: 12px;
+  height: 90px;
+  width:210px;
+  margin-left: 10px;
+  margin-top: 5px;
+  overflow:hidden;
+}
+
+
+.kfc-popup-top-value, .kfc-select-class-value{
+	display:none;}
+	
+	
+	
