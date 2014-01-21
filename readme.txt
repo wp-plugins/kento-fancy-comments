@@ -14,7 +14,7 @@ Comment Author Profile on hover box.
 
 Popup hover box for comment author profile for users and guest commenter.
 
-Live Preview: http://kentothemes.com/demo/kento-fancy-comments/kento-fancy-comments/s
+Live Preview: http://kentothemes.com/demo/kento-fancy-comments/kento-fancy-comments/
 
 Setting Details:
 http://kentothemes.com/demo/kento-fancy-comments/kento-fancy-comments/
