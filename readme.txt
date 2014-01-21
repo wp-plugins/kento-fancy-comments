@@ -56,9 +56,10 @@ Go plugin admin setting and set a value(could be negative or positive) for "Popu
 
 == Screenshots ==
 
-1. Get CSS Class
-2. Fix position for mouse hover
-3. Admin Settings
+1. Get CSS Class.
+2. Fix position for mouse hover.
+3. Admin Settings.
+4. Plugin Preview.
 
 
 
