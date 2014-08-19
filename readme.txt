@@ -1,5 +1,5 @@
 === Kento Fancy Comments ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags: Kento Fancy Comments, fancy comment, comment profile, comment popup
 Requires at least: 3.5
